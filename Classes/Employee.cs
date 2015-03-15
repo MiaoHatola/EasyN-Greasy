@@ -2,8 +2,8 @@ using System;
 
 namespace Project.Classes
 {
-	class Employee
-	{
+  class Employee
+  {
 		//do nothing
-	}
+  }
 }
