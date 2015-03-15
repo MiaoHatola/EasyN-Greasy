@@ -1,3 +1,9 @@
 using System;
 
-Namespace 
+namespace Project.Classes
+{
+  class Employee
+  {
+		//do nothing
+  }
+}
