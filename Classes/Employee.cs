@@ -1,6 +1,6 @@
 using System;
 
-namespace Project.Classes
+namespace Logic
 {
   class Employee
   {
